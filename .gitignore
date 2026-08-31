@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Generated output (maps, itineraries, plots)
+output/
+
+# Environment / secrets
+.env
+.env.*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Course report/slides (kept local, not published)
+Travel_Optimizer_Vaishali.pdf
+Travel_Optimizer_Vaishali.pptx
